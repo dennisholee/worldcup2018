@@ -1,0 +1,10 @@
+Croatia,11,0
+Croatia,5,1
+Croatia,12,1
+France,17,0
+France,16,1
+France,18,0
+France,19,1
+Croatia,4,0
+Croatia,9,0
+Croatia,10,1
